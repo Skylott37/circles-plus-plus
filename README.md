@@ -6,4 +6,4 @@ The base mechanics and features of game:
 3. The game is open source and aimed at modding so that users can create their own levels, mechanics, etc.
 ![scrn](https://github.com/user-attachments/assets/96db8da1-caca-4776-82a0-4183084556cc)
 
-#a
+# The game is an work in progress, I'll upload the first version of game when it is be finalized.
